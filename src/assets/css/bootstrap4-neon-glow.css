@@ -8904,11 +8904,7 @@ body {
   .btn-shadow.btn-dark:hover, .btn-shadow.btn-outline-dark:hover {
     background-color: #32334a; }
 
-.display-1,
-.display-2,
-.display-3,
-.display-4 {
-  .text-white .display-1, .display-1.text-white, .text-white
+.text-white .display-1, .display-1.text-white, .text-white
   .display-2,
   .display-2.text-white, .text-white
   .display-3,
